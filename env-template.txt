@@ -1,0 +1,6 @@
+# Supabase Configuration Template
+# Copy the contents below to create your .env file
+# Replace the values with your actual Supabase credentials
+
+EXPO_PUBLIC_SUPABASE_URL=https://your-project-ref.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=your-anon-key-here
